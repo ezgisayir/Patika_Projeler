@@ -85,7 +85,7 @@ const menu = [
 let section = document.querySelector(".section-center")
 let btnContainer = document.querySelector(".btn-container")
 
-const categories = menu.app((item) => item.category)
+const categories = menu.map((item) => item.category)
 
 function removeDuplicates(data) {
   return [...new Set(data)]
