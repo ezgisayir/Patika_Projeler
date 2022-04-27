@@ -18,6 +18,7 @@ for (let i = 0; i < liste.children.length; i++) {
       let toastAlertBasarisiz = new bootstrap.Toast(toastBasarisiz);
       toastAlertBasarisiz.show();
     }
+     newInput.value = '';
   }
   button.addEventListener('submit', newElement);
 
