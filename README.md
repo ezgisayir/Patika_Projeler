@@ -1,2 +1,2 @@
 # Patika_Projeler
-Patika.dev'de HTML, CSS, JavaScript kullanarak yaptığım projeler.
+Patika.dev'de HTML, CSS, JavaScript, Bootstrap ve React kullanarak yaptığım projeler.
